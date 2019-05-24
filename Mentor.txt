@@ -1,1 +1,3 @@
-İlk yazı ilk commit.
+- Advisory board’da maksimum %1’e kadar hisse alarak yer alsınlar.
+- Mentörlük düzenli olarak devam ettiğinde anlamlıdır. Bir girişim ile devamlı olarak çalışsınlar. Tek seferlik mentörlük olmaz.
+- Girişimciyi mentörlük yaptıkları konu hakkında değerlendirsinler.
